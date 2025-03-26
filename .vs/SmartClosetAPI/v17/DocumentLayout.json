@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tiago\\OneDrive\\Documentos\\istec\\ReactNative\\SmartClosetAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F00BBFC-577D-42DE-907A-14BAB4B30045}|SmartClosetAPI\\SmartClosetAPI.csproj|c:\\users\\tiago\\onedrive\\documentos\\istec\\reactnative\\smartclosetapi\\smartclosetapi\\controllers\\roupascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F00BBFC-577D-42DE-907A-14BAB4B30045}|SmartClosetAPI\\SmartClosetAPI.csproj|solutionrelative:smartclosetapi\\controllers\\roupascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F00BBFC-577D-42DE-907A-14BAB4B30045}|SmartClosetAPI\\SmartClosetAPI.csproj|c:\\users\\tiago\\onedrive\\documentos\\istec\\reactnative\\smartclosetapi\\smartclosetapi\\controllers\\contascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F00BBFC-577D-42DE-907A-14BAB4B30045}|SmartClosetAPI\\SmartClosetAPI.csproj|solutionrelative:smartclosetapi\\controllers\\contascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F00BBFC-577D-42DE-907A-14BAB4B30045}|SmartClosetAPI\\SmartClosetAPI.csproj|c:\\users\\tiago\\onedrive\\documentos\\istec\\reactnative\\smartclosetapi\\smartclosetapi\\models\\roupas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F00BBFC-577D-42DE-907A-14BAB4B30045}|SmartClosetAPI\\SmartClosetAPI.csproj|solutionrelative:smartclosetapi\\models\\roupas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F00BBFC-577D-42DE-907A-14BAB4B30045}|SmartClosetAPI\\SmartClosetAPI.csproj|c:\\users\\tiago\\onedrive\\documentos\\istec\\reactnative\\smartclosetapi\\smartclosetapi\\models\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F00BBFC-577D-42DE-907A-14BAB4B30045}|SmartClosetAPI\\SmartClosetAPI.csproj|solutionrelative:smartclosetapi\\models\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F00BBFC-577D-42DE-907A-14BAB4B30045}|SmartClosetAPI\\SmartClosetAPI.csproj|c:\\users\\tiago\\onedrive\\documentos\\istec\\reactnative\\smartclosetapi\\smartclosetapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F00BBFC-577D-42DE-907A-14BAB4B30045}|SmartClosetAPI\\SmartClosetAPI.csproj|solutionrelative:smartclosetapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F00BBFC-577D-42DE-907A-14BAB4B30045}|SmartClosetAPI\\SmartClosetAPI.csproj|c:\\users\\tiago\\onedrive\\documentos\\istec\\reactnative\\smartclosetapi\\smartclosetapi\\models\\contas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F00BBFC-577D-42DE-907A-14BAB4B30045}|SmartClosetAPI\\SmartClosetAPI.csproj|solutionrelative:smartclosetapi\\models\\contas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F00BBFC-577D-42DE-907A-14BAB4B30045}|SmartClosetAPI\\SmartClosetAPI.csproj|c:\\users\\tiago\\onedrive\\documentos\\istec\\reactnative\\smartclosetapi\\smartclosetapi\\models\\contasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F00BBFC-577D-42DE-907A-14BAB4B30045}|SmartClosetAPI\\SmartClosetAPI.csproj|solutionrelative:smartclosetapi\\models\\contasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F00BBFC-577D-42DE-907A-14BAB4B30045}|SmartClosetAPI\\SmartClosetAPI.csproj|c:\\users\\tiago\\onedrive\\documentos\\istec\\reactnative\\smartclosetapi\\smartclosetapi\\models\\roupasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F00BBFC-577D-42DE-907A-14BAB4B30045}|SmartClosetAPI\\SmartClosetAPI.csproj|solutionrelative:smartclosetapi\\models\\roupasdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F00BBFC-577D-42DE-907A-14BAB4B30045}|SmartClosetAPI\\SmartClosetAPI.csproj|c:\\users\\tiago\\onedrive\\documentos\\istec\\reactnative\\smartclosetapi\\smartclosetapi\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F00BBFC-577D-42DE-907A-14BAB4B30045}|SmartClosetAPI\\SmartClosetAPI.csproj|solutionrelative:smartclosetapi\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F00BBFC-577D-42DE-907A-14BAB4B30045}|SmartClosetAPI\\SmartClosetAPI.csproj|c:\\users\\tiago\\onedrive\\documentos\\istec\\reactnative\\smartclosetapi\\smartclosetapi\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F00BBFC-577D-42DE-907A-14BAB4B30045}|SmartClosetAPI\\SmartClosetAPI.csproj|solutionrelative:smartclosetapi\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F00BBFC-577D-42DE-907A-14BAB4B30045}|SmartClosetAPI\\SmartClosetAPI.csproj|c:\\users\\tiago\\onedrive\\documentos\\istec\\reactnative\\smartclosetapi\\smartclosetapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1F00BBFC-577D-42DE-907A-14BAB4B30045}|SmartClosetAPI\\SmartClosetAPI.csproj|solutionrelative:smartclosetapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContasDTO.cs",
+              "DocumentMoniker": "C:\\Users\\tiago\\OneDrive\\Documentos\\istec\\ReactNative\\SmartClosetAPI\\SmartClosetAPI\\Models\\ContasDTO.cs",
+              "RelativeDocumentMoniker": "SmartClosetAPI\\Models\\ContasDTO.cs",
+              "ToolTip": "C:\\Users\\tiago\\OneDrive\\Documentos\\istec\\ReactNative\\SmartClosetAPI\\SmartClosetAPI\\Models\\ContasDTO.cs",
+              "RelativeToolTip": "SmartClosetAPI\\Models\\ContasDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T12:42:10.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TodoContext.cs",
+              "DocumentMoniker": "C:\\Users\\tiago\\OneDrive\\Documentos\\istec\\ReactNative\\SmartClosetAPI\\SmartClosetAPI\\Models\\TodoContext.cs",
+              "RelativeDocumentMoniker": "SmartClosetAPI\\Models\\TodoContext.cs",
+              "ToolTip": "C:\\Users\\tiago\\OneDrive\\Documentos\\istec\\ReactNative\\SmartClosetAPI\\SmartClosetAPI\\Models\\TodoContext.cs",
+              "RelativeToolTip": "SmartClosetAPI\\Models\\TodoContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T12:41:23.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContasController.cs",
+              "DocumentMoniker": "C:\\Users\\tiago\\OneDrive\\Documentos\\istec\\ReactNative\\SmartClosetAPI\\SmartClosetAPI\\Controllers\\ContasController.cs",
+              "RelativeDocumentMoniker": "SmartClosetAPI\\Controllers\\ContasController.cs",
+              "ToolTip": "C:\\Users\\tiago\\OneDrive\\Documentos\\istec\\ReactNative\\SmartClosetAPI\\SmartClosetAPI\\Controllers\\ContasController.cs",
+              "RelativeToolTip": "SmartClosetAPI\\Controllers\\ContasController.cs",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAowL8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T12:36:57.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChangePasswordDTO.cs",
+              "DocumentMoniker": "C:\\Users\\tiago\\OneDrive\\Documentos\\istec\\ReactNative\\SmartClosetAPI\\SmartClosetAPI\\Models\\ChangePasswordDTO.cs",
+              "RelativeDocumentMoniker": "SmartClosetAPI\\Models\\ChangePasswordDTO.cs",
+              "ToolTip": "C:\\Users\\tiago\\OneDrive\\Documentos\\istec\\ReactNative\\SmartClosetAPI\\SmartClosetAPI\\Models\\ChangePasswordDTO.cs",
+              "RelativeToolTip": "SmartClosetAPI\\Models\\ChangePasswordDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T12:41:16.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tiago\\OneDrive\\Documentos\\istec\\ReactNative\\SmartClosetAPI\\SmartClosetAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SmartClosetAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\tiago\\OneDrive\\Documentos\\istec\\ReactNative\\SmartClosetAPI\\SmartClosetAPI\\Program.cs",
+              "RelativeToolTip": "SmartClosetAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T12:31:01.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\tiago\\OneDrive\\Documentos\\istec\\ReactNative\\SmartClosetAPI\\SmartClosetAPI\\Models\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "SmartClosetAPI\\Models\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\tiago\\OneDrive\\Documentos\\istec\\ReactNative\\SmartClosetAPI\\SmartClosetAPI\\Models\\LoginDTO.cs",
+              "RelativeToolTip": "SmartClosetAPI\\Models\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:21:46.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RoupasController.cs",
+              "DocumentMoniker": "C:\\Users\\tiago\\OneDrive\\Documentos\\istec\\ReactNative\\SmartClosetAPI\\SmartClosetAPI\\Controllers\\RoupasController.cs",
+              "RelativeDocumentMoniker": "SmartClosetAPI\\Controllers\\RoupasController.cs",
+              "ToolTip": "C:\\Users\\tiago\\OneDrive\\Documentos\\istec\\ReactNative\\SmartClosetAPI\\SmartClosetAPI\\Controllers\\RoupasController.cs",
+              "RelativeToolTip": "SmartClosetAPI\\Controllers\\RoupasController.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAAG4AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:11:03.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Roupas.cs",
+              "DocumentMoniker": "C:\\Users\\tiago\\OneDrive\\Documentos\\istec\\ReactNative\\SmartClosetAPI\\SmartClosetAPI\\Models\\Roupas.cs",
+              "RelativeDocumentMoniker": "SmartClosetAPI\\Models\\Roupas.cs",
+              "ToolTip": "C:\\Users\\tiago\\OneDrive\\Documentos\\istec\\ReactNative\\SmartClosetAPI\\SmartClosetAPI\\Models\\Roupas.cs",
+              "RelativeToolTip": "SmartClosetAPI\\Models\\Roupas.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T15:52:37.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Contas.cs",
+              "DocumentMoniker": "C:\\Users\\tiago\\OneDrive\\Documentos\\istec\\ReactNative\\SmartClosetAPI\\SmartClosetAPI\\Models\\Contas.cs",
+              "RelativeDocumentMoniker": "SmartClosetAPI\\Models\\Contas.cs",
+              "ToolTip": "C:\\Users\\tiago\\OneDrive\\Documentos\\istec\\ReactNative\\SmartClosetAPI\\SmartClosetAPI\\Models\\Contas.cs",
+              "RelativeToolTip": "SmartClosetAPI\\Models\\Contas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T12:42:54.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RoupasDTO.cs",
+              "DocumentMoniker": "C:\\Users\\tiago\\OneDrive\\Documentos\\istec\\ReactNative\\SmartClosetAPI\\SmartClosetAPI\\Models\\RoupasDTO.cs",
+              "RelativeDocumentMoniker": "SmartClosetAPI\\Models\\RoupasDTO.cs",
+              "ToolTip": "C:\\Users\\tiago\\OneDrive\\Documentos\\istec\\ReactNative\\SmartClosetAPI\\SmartClosetAPI\\Models\\RoupasDTO.cs",
+              "RelativeToolTip": "SmartClosetAPI\\Models\\RoupasDTO.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAowA8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T15:53:00.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\tiago\\OneDrive\\Documentos\\istec\\ReactNative\\SmartClosetAPI\\SmartClosetAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "SmartClosetAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\tiago\\OneDrive\\Documentos\\istec\\ReactNative\\SmartClosetAPI\\SmartClosetAPI\\appsettings.json",
+              "RelativeToolTip": "SmartClosetAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-06T14:42:10.131Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
